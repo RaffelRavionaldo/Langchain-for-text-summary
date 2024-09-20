@@ -13,7 +13,7 @@ Before you run the program, you need to get the openai API key, to get it :
 
 Now you can run the program from summarised text file, Good Luck
 
-# Langchain-for-text-summary
+# Langchain-for-text-summary with Llama
 Just change the model from openAI to Llama from hugging face, because it's a free model. The results will not be as good as using openAI.
 
 To use this, you need to get a hugging face access token on this : https://huggingface.co/settings/tokens
